@@ -7,7 +7,7 @@
 ## Technique Information
 * Technique title: Smart Assembly
 * Technique category: Packers
-* Technique description: SmartAssembly is an obfuscator that helps protect your application against reverse-engineering or modification, by making it difficult for a third-party to access your source code.
+* Technique description: SmartAssembly is an obfuscator that helps protect the application against reverse-engineering or modification, by making it difficult for a third-party to access the source code.
 
 ## Additional resources
 * https://www.red-gate.com/products/smartassembly/
