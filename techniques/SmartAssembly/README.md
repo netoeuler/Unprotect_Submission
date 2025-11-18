@@ -1,6 +1,6 @@
 # *SmartAssembly*
 ## Authorship information
-* Name: *netoeuler*
+* Name: *Euler Neto*
 * Twitter: *https://twitter.com/netonightmare*
 * Website: *https://netoeuler.github.io*
 
